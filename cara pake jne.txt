@@ -1,0 +1,53 @@
+Butuh Modul Pengiriman JNE gratis untuk Toko Online Opencart Anda? Humayraa dan bestariweb akan berbagi modul ini secara gratis.
+
+Cara Install
+Download modul disini
+Upload ke root folder opencart kemudian extract.
+Login ke halaman admin
+Klik Extension , Shipping
+Klik icon + di baris JNE Shipping, kolom Action, untuk install module
+Jika Proses Install berhasil, tanda + berubah jadi tanda minus
+Menambah Zone JNE
+Klik System, Localisation, Geo Zones
+Klik icon + di kanan atas layar untuk menambahkan Geo Zone JNE
+Isi Nama Geo Zone : JNE Regular
+Isi Description : JNE Regular
+Klik icon + dibawah kolom Zone untuk menambahkan Geo Zone ke Zone
+isi Country: Indonesia
+Isi Zone: All Zone
+Klik icon Disk (save) di kanan atas layar untuk mentimpan geo zones
+Setting JNE Rate
+Klik Extension , Shipping
+Klik icon pensil di baris JNE Shipping, kolom Action, untuk edit module
+Isi Untuk General Setting
+Isi Tax Class: None
+Isi Status: Enable
+Isi Sort Order: 0
+Klik Tab JNE Regular
+Isi Rate dengan isi file Tarif JNE Reguler JKT yg ada di module ini
+Format isi file = kodepos:tarif, jika ada perubahan, silahkan sesuaikan
+Isi Status: Enable
+Klik Save (kanan atas Layar)
+Incoming search terms:
+
+jne opencart (6)
+opencart jne gratis (4)
+modul jne opencart 2 0 gratis (3)
+opencart metode pengiriman jne tidak ada layanan (2)
+modul jne reg untuk opencart 2 1 0 2 (1)
+modul jne opencart 2 3 (1)
+modul jne opencart 2 2 (1)
+tutorial menambahkan pembayaran pke bca d openchart (1)
+install modul jne di opencart (1)
+modul jne opencart (1)
+modul jne gratis opencart (1)
+modul jne untuk toko online (1)
+modul pengiriman tokoonline (1)
+Tutorial cara memasukan jne reguler di opencart (1)
+Tutorial admin jne (1)
+template opencart gratis toko online indonesia dengan pengiriman JNE (1)
+opencart modul modul (1)
+opencart modul jne (1)
+opencart free jne (1)
+Module Pengiriman Opencart v 1 (1)
+(Visited 1.735 times, 2 visits today)
